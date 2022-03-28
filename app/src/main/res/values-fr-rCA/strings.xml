@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinalProjectApp</string>
+    <string name="title">Recherche d\'articles de presse The Guardian"</string>
+    <string name="search_news">Rechercher des actualités</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+    <string name="search">Recherche</string>
+    <string name="load_url">Charger URL</string>
+    <string name="save_article">Enregistrer l\'article</string>
+    <string name="article_saved">Votre article est enregistre!</string>
+    <string name="article_deleted">Votre article est enlever!</string>
+    <string name="saved_articles">Article sauve</string>
+    <string name="home">Home</string>
+    <string name="delete_article">Article enlever</string>
+    <string name="v1_0">v1.0</string>
+    <string name="help">Help</string>
+    <string name="help_description">À l\'aide de la barre de recherche, trouvez n\'importe quel article d\'actualité dans n\'importe quel sujet.
+        Il existe des options pour enregistrer les articles et les stocker dans une liste séparée. Une fois dans la liste,
+        les articles peuvent être consultés ou supprimés.</string>
+</resources>

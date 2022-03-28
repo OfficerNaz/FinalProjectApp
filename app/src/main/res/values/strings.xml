@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FinalProjectApp</string>
+    <string name="title">The Guardian news article search"</string>
+    <string name="search_news">Search News</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="search">Search</string>
+    <string name="load_url">Load URL</string>
+    <string name="save_article">Save Article</string>
+    <string name="article_saved">Your article is saved!</string>
+    <string name="article_deleted">Your article is deleted!</string>
+    <string name="saved_articles">Saved Articles</string>
+    <string name="home">Home</string>
+    <string name="delete_article">Delete Article</string>
+    <string name="v1_0">v1.0</string>
+    <string name="help">Help</string>
+    <string name="help_description">Using the search bar, find any news article in any subject. There are options to save articles and store them in a separate list. Once in the list, articles can be viewed or deleted.</string>
 </resources>
